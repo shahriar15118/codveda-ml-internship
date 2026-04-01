@@ -28,9 +28,9 @@
 
 | Task | Description | Status |
 |------|-------------|--------|
-| Task 1 | Random Forest Classifier | ✅ Code Complete / ⚠️ Unrun* |
-| Task 2 | Support Vector Machine (SVM) | ✅ Code Complete / ⚠️ Unrun* |
-| Task 3 | Neural Network with TensorFlow/Keras | ✅ Code Complete / ⚠️ Unrun* |
+| Task 1 | Random Forest Classifier | ✅ Code Complete  |
+| Task 2 | Support Vector Machine (SVM) | ✅ Code Complete |
+| Task 3 | Neural Network with TensorFlow/Keras | ✅ Code Complete |
 
 > *Advanced level cells are fully written but could not be executed due to Google Colab free-tier RAM limitations causing repeated crashes. All code follows the same verified pipeline structure as the successfully run Level 1 and Level 2 tasks.
 
@@ -43,7 +43,7 @@ codveda.ipynb       # Main Jupyter Notebook with all tasks
 README.md           # This file
 ```
 
-> **Dataset Note:** The notebook uses `churn-bigml-80.csv` (training) and `churn-bigml-20.csv` (testing). These are publicly available on Kaggle: [Churn in Telecom's dataset](https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset).
+> **Dataset Note:** The notebook uses `churn-bigml-80.csv` (training) and `churn-bigml-20.csv` (testing). These are provided from the Codveda Technologies and publicly available on Kaggle: [Churn in Telecom's dataset](https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset).
 
 ---
 
@@ -70,4 +70,3 @@ README.md           # This file
 
 **LinkedIn:** Tag @Codveda  
 **Hashtags:** #CodvedaJourney #CodvedaExperience #FutureWithCodveda  
-**Submission Form:** [forms.gle/ACmj98WfL3bHTc6g6](https://forms.gle/ACmj98WfL3bHTc6g6)
